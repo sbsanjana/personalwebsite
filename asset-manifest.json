@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/personalwebsite/static/css/main.3dda1472.chunk.css",
-    "main.js": "/personalwebsite/static/js/main.e822bad3.chunk.js",
-    "main.js.map": "/personalwebsite/static/js/main.e822bad3.chunk.js.map",
+    "main.js": "/personalwebsite/static/js/main.ee5f8926.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.ee5f8926.chunk.js.map",
     "runtime-main.js": "/personalwebsite/static/js/runtime-main.4b84688a.js",
     "runtime-main.js.map": "/personalwebsite/static/js/runtime-main.4b84688a.js.map",
     "static/css/2.6df4c8f8.chunk.css": "/personalwebsite/static/css/2.6df4c8f8.chunk.css",
-    "static/js/2.b8de8a93.chunk.js": "/personalwebsite/static/js/2.b8de8a93.chunk.js",
-    "static/js/2.b8de8a93.chunk.js.map": "/personalwebsite/static/js/2.b8de8a93.chunk.js.map",
+    "static/js/2.57440d93.chunk.js": "/personalwebsite/static/js/2.57440d93.chunk.js",
+    "static/js/2.57440d93.chunk.js.map": "/personalwebsite/static/js/2.57440d93.chunk.js.map",
     "index.html": "/personalwebsite/index.html",
-    "precache-manifest.ddebc618cc9228e878b9440ea6b1f9bc.js": "/personalwebsite/precache-manifest.ddebc618cc9228e878b9440ea6b1f9bc.js",
+    "precache-manifest.836b3a520c75d3b863516641f2024db7.js": "/personalwebsite/precache-manifest.836b3a520c75d3b863516641f2024db7.js",
     "service-worker.js": "/personalwebsite/service-worker.js",
     "static/css/2.6df4c8f8.chunk.css.map": "/personalwebsite/static/css/2.6df4c8f8.chunk.css.map",
     "static/css/main.3dda1472.chunk.css.map": "/personalwebsite/static/css/main.3dda1472.chunk.css.map",
-    "static/js/2.b8de8a93.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.b8de8a93.chunk.js.LICENSE.txt",
+    "static/js/2.57440d93.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.57440d93.chunk.js.LICENSE.txt",
     "static/media/berlin.jpg": "/personalwebsite/static/media/berlin.baee7ba0.jpg",
     "static/media/collect.png": "/personalwebsite/static/media/collect.594114b9.png",
     "static/media/koble.jpg": "/personalwebsite/static/media/koble.bba5af89.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b84688a.js",
     "static/css/2.6df4c8f8.chunk.css",
-    "static/js/2.b8de8a93.chunk.js",
+    "static/js/2.57440d93.chunk.js",
     "static/css/main.3dda1472.chunk.css",
-    "static/js/main.e822bad3.chunk.js"
+    "static/js/main.ee5f8926.chunk.js"
   ]
 }
